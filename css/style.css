@@ -3,8 +3,12 @@ body{
   background-color:#ffffff;
 }
 
+.container-fluid{
+    padding: 0px;
+}
+
 .img-width{
-    width: 75%;
+    width: 100%;
     height: auto;
 }
 
@@ -81,7 +85,7 @@ input[type=submit]:hover {
 
 img {
     border-radius: 4px;  
-    padding: 5px; 
+    padding: 0px; 
     width: 150px; 
 }
 
